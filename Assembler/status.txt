@@ -1,0 +1,118 @@
+Line 1
+The song which is played is no. 2 
+Flag Status PP is set to 1
+Register Status: R05= 2
+ALU Status: Value of Current song 5 
+Data Movement: No Data movement operation performed
+Program Counter: 1
+
+
+Line 2
+FLAG:PP FLAG IS SET TO 0
+Register Status: EMPTY
+ALU Status: No ALU Operations Performed
+Data Movement: NONE
+Program Counter: 2
+Line 3
+FLAG: SFL FLAG SET TO 1
+Register Status: R05 is set to 3
+ALU Status: Generate a random number
+Data Movement: Register to Register
+Program Counter: 3
+Line 4
+FLAG: NONE
+Register Status: R00 is set to 1
+ALU Status: Logical Comparision operation is performed
+Data Movement: Memory to register
+Program Counter: 4
+Line 5
+Register Status: R04= 4
+ALU Status: Value of Volume R04 incremented
+Data Movement: No Data movement operation performed
+Program Counter: 5
+
+
+Line 6
+Register Status: R04= 3
+ALU Status: Value of Volume R04 incremented
+Data Movement: No Data movement operation performed
+
+
+Line 7
+Register Status: R05= 4
+ALU Status: Value of Current song 5 
+Data Movement: No Data movement operation performed
+Program Counter: 7
+
+
+Line 8
+Register Status: R05= 3
+ALU Status: Value of Current song 5 
+Data Movement: No Data movement operation performed
+Program Counter: 8
+
+
+Line 9
+Register Status: R05= 2
+ALU Status: Value of Current song 5 
+Data Movement: No Data movement operation performed
+Program Counter: 9
+
+
+Line 10
+Register Status: R05= 1
+ALU Status: Value of Current song 5 
+Data Movement: No Data movement operation performed
+Program Counter: 10
+
+
+Line 11
+Register Status: R05= 2
+ALU Status: Value of Current song 5 
+Data Movement: No Data movement operation performed
+Program Counter: 11
+
+
+Line 12
+Register Status: R05= 3
+FLAG PP IS on
+ALU Status: NONEData Movement: Immediate addressing
+Program Counter: 12
+
+
+Line 13
+Register Status: R05= 3
+FLAG PP IS on
+ALU Status: NONEData Movement: Immediate addressing
+Program Counter: 13
+
+
+Line 14
+FLAG: NONE
+Register Status: R00 is set to 3
+ALU Status: Logical Comparision operation is performed
+Data Movement: Memory to register
+Program Counter: 14
+Line 15
+Playing song 3 for 0th time
+Playing song 3 for 1th time
+Register Status: R05= 3
+FLAG Status LP Flag is on
+ALU Status: NONEData Movement: NONE
+Program Counter: 16
+
+
+Line 16
+Register Status: R03= 1
+ALU Status: NONEData Movement: Using Immediate addressing to transfer into register
+Program Counter: 17
+
+
+Last 2 songs are rejected to add
+Line 17
+Register Status: R07= 8
+ALU Status: Addition is performed
+Data Movement: NONE
+Program Counter: 18
+
+
