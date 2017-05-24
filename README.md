@@ -4,10 +4,10 @@ It consists of a assembly code compiler that compiles the assembly code and conv
 On compilation machine.txt and label.txt files are automatically generated which consists of machine code and symbol table respectively.
 
 ## Project Problem Statement
-[COA Problem Statement](./Project Problem Statement.doc).
+[COA Problem Statement](./Project_Problem_Statement.doc).
 
 ## Proposed Solution PPT
-[COA Solution PPT](./MP3 Player ISA.pptx).
+[COA Solution PPT](./MP3_Player_ISA.pptx).
 
 ## Code
 The actual C code is present in the Assembler directory.
